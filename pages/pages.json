@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Home",
+      "link": "/index.html"
+    },
+    {
+      "title": "Chapter 1",
+      "link": "/pages/page1.html"
+    },
+    {
+      "title": "Chapter 2",
+      "link": "/pages/page2.html"
+    }
+]
